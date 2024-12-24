@@ -20,7 +20,7 @@ fsspec==2024.3.1
 idna==3.7
 jaraco.classes==3.4.0
 jaraco.context==5.3.0
-Jinja2==3.1.4
+Jinja2==3.1.5
 jmespath==1.0.1
 keyring==8.7
 keyrings.alt==5.0.1
